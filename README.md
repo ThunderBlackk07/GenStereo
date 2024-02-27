@@ -1,7 +1,7 @@
 # GenStereo
 Problem - 3 : Gender Categorization 
 
-Bollyood Movies data has been given to us with different kinds of datasets from wikipedia dataset,scripts of the movies,trailer dat, image datasets of the movies with these given datasets we have to find the gender male and female and categorize them from the datasets .The goal of the problem is to get the gender stereotypes from the bollyood movies Thus we find the basic solution with our machine learning algorithm.
+Bollyood Movies data has been given to us with different kinds of datasets from wikipedia dataset,scripts of the movies,trailer data, image datasets of the movies with these given datasets we have to find the gender as male and female and categorize them from the datasets .The goal of the problem is to get the gender stereotypes from the bollyood movies Thus we find the basic solution with our machine learning algorithm.
 
 Procedure:
 1. First we have imported some python libraries.
